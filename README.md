@@ -16,6 +16,11 @@
 <p align="left">
 <a href="https://twitter.com/Shank1803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shank1803" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shankarram-saravanan-03156b1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shankarramsaravanan" height="30" width="40" /></a>
+<a href="https://leetcode.com/ShankarRam_Saravanan/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png?f=webp&w=256" alt="shankarramsaravanan" height="30" width="40" /></a>
+
+  
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
