@@ -6,8 +6,6 @@
 
 - I’m currently learning **Springboot, JPA, Hibernate, AWS**
 
-- All of my projects are available at [https://github.com/ShankarRamSaravanan?tab=repositories](https://github.com/ShankarRamSaravanan?tab=repositories)
-
 - Ask me about **Python, Swift, JAVA**
 
 - To reach me **sankarams18@gmail.com**
