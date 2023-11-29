@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shankarram Saravanan</h1>
 <h3 align="center"> Passionate about leveraging technology to drive meaningful impact in the field of data science. I have a solid foundation in data analysis, programming, and machine learning</h3>
 
-<p align="left"> <img src=# alt="shankarramsaravanan" /> </p>
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fyoung-guy-working-at-the-computer-vector-22368997&psig=AOvVaw0ucYBVSikxSLp__mTHl_hr&ust=1701366695862000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC1kf7i6YIDFQAAAAAdAAAAABAh" align="right" alt="Coding" width="1000" height="500" >
 
 - I’m currently learning **Springboot, JPA, Hibernate, AWS**
 
